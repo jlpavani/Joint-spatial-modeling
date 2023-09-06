@@ -6,7 +6,7 @@ Data and R code to support Pavani et al (2023).  In this paper, we model the geo
 
 If you find this code helpful and use it in your work, please cite our paper:
 
-> Pavani, J.; Bastos, L.; Moraga, P.: {Joint spatial modeling of the risks of co-circulating mosquito-borne diseases in Ceará, Brazil. *Spatial and Spatio-temporal Epidemiology*, 47, 100616, 2023. [[DOI](https://doi.org/10.1016/j.sste.2023.100616)]
+> Pavani, J.; Bastos, L.; Moraga, P.: Joint spatial modeling of the risks of co-circulating mosquito-borne diseases in Ceará, Brazil. *Spatial and Spatio-temporal Epidemiology*, 47, 100616, 2023. [[DOI](https://doi.org/10.1016/j.sste.2023.100616)]
 
 ```bibtex
 @article{Pavani2023,
